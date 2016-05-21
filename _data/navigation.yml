@@ -1,6 +1,31 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- 	title:"Home"
+  	url:/
+  	excerpt:
+  	image:
+
+-	title:"Política y Sociedad"
+	url: /politica-sociedad/
+    excerpt:
+    image:
+-	title:"Internacional"
+	url: /internacional/
+    excerpt:
+    image:
+-	title:"Cultura"
+	url:/cultura/
+    excerpt:
+    image:
+-	title: "Ocurrencias"
+	url:/ocurrencias/
+    excerpt:
+    image:
+-	title: "Entrevistas"
+	url: /entrevistas/
+    excerpt: 
+    image:
+- 	title:"La Redacción"
+	url: /about/
+    excerpt:
+    image:

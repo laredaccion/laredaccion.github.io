@@ -1,11 +1,11 @@
 # Site navigation links
 
-- 	title:"Home"
-  	url:/
+-title:"Home"
+ url:/
 
 
--	title:"Política y Sociedad"
-	url: /politica-sociedad/
+-title:"Política y Sociedad"
+ url: /politica-sociedad/
 
 -	title:"Internacional"
 	url: /internacional/

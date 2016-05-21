@@ -1,24 +1,5 @@
 # Site navigation links
-
--title:"Home"
- url: "/"
-
-
--title:"Política y Sociedad"
- url: /politica-sociedad/
-
--	title:"Internacional"
-	url: /internacional/
-
--	title:"Cultura"
-	url:/cultura/
-
--	title: "Ocurrencias"
-	url:/ocurrencias/
-
--	title: "Entrevistas"
-	url: /entrevistas/
-
-- 	title:"La Redacción"
-	url: /about/
-
+- title: Home
+  url: /
+  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
+  image: 300x200.gif

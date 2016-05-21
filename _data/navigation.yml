@@ -1,35 +1,7 @@
 # Site navigation links
 - title: Home
   url: /
-  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
-  image: 300x200.gif
-  
+
 - title: Política y Sociedad
   url: /politica-sociedad/
-  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
-  image: 300x200.gif
   
-  - title: Internacional
-  url: /internacional/
-  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
-  image: 300x200.gif
-  
-  - title: Cultura
-  url: /cultura/
-  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
-  image: 300x200.gif
-  
-  - title: Ocurrencias
-  url: /ocurrencias/
-  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
-  image: 300x200.gif
-  
-  - title: Entrevistas
-  url: /entrevistas/
-  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
-  image: 300x200.gif
-  
-  - title: "La Redacción"
-  url: /about/
-  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
-  image: 300x200.gif

@@ -15,7 +15,7 @@
         	{% else %}
         		{% assign domain = site.url %}
     		{% endif %}
-          {{linkb.title }}
+
       		<li class="menu-item sub-menu"><a href="{{ domain }}{{ linkb.url }}"{% if linkb.url contains 'http' %}target="_blank"{% endif %}>{{ linkb.title }}</a></li>
       	{% endfor %}
         </ul>

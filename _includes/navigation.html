@@ -9,7 +9,7 @@
     <li class="menu-item"><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a>
   {% if link.subitems %}
       	<ul class="dropdown">
-		{% for linkb in item.subitems %}
+		{% for linkb in link.subitems %}
       		{% if linkb.url contains 'http' %}
         		{% assign domain = '' %}
         	{% else %}

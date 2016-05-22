@@ -1,14 +1,14 @@
 # Site navigation links
 
 - title: Actualidad
-  url: /actualidad/
+  url: #
   subitems:
    - title: Política y Sociedad
      url: /politica-sociedad/
    - title: Economía
      url: /economia/
    - title: Internacional
-  url: /internacional/ 
+     url: /internacional/ 
     
 - title: Cultura
   url: /cultura/

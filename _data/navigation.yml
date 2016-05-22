@@ -1,6 +1,5 @@
 # Site navigation links
-- title: Home
-  url: /
+
 - title: Actualidad
   url: /actualidad/
   subitems:

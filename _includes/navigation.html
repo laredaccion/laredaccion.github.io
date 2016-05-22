@@ -9,14 +9,14 @@
     <li class="menu-item"><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a>
   {% if link.subitems %}
       	<ul class="dropdown">
-		{% for link in item.subitems %}
-      		{% if link.url contains 'http' %}
+		{% for linkb in item.subitems %}
+      		{% if linkb.url contains 'http' %}
         		{% assign domain = '' %}
         	{% else %}
         		{% assign domain = site.url %}
     		{% endif %}
-          {{link.title }}
-      		<li class="menu-item sub-menu"><a href="{{ domain }}{{ link.url }}"{% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+          {{linkb.title }}
+      		<li class="menu-item sub-menu"><a href="{{ domain }}{{ linkb.url }}"{% if linkb.url contains 'http' %}target="_blank"{% endif %}>{{ linkb.title }}</a></li>
       	{% endfor %}
         </ul>
 	{% endif %}

@@ -1,7 +1,12 @@
 # Site navigation links
 - title: Home
   url: /
-
+- title: Actualidad
+  url: /actualidad/
+  subitems:
+   - title: Polsoc
+     url: /polsoc/
+  
 - title: Política y Sociedad
   url: /politica-sociedad/
 
@@ -18,4 +23,4 @@
   url: /entrevistas/  
   
 - title: La Redacción
-  url: /about/  
+  url: /about/

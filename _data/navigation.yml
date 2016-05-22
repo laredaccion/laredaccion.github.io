@@ -4,15 +4,13 @@
 - title: Actualidad
   url: /actualidad/
   subitems:
-   - title: Polsoc
-     url: /polsoc/
-  
-- title: Política y Sociedad
-  url: /politica-sociedad/
-
-- title: Internacional
-  url: /internacional/
-  
+   - title: Política y Sociedad
+     url: /politica-sociedad/
+   - title: Economía
+     url: /economia/
+   - title: Internacional
+  url: /internacional/ 
+    
 - title: Cultura
   url: /cultura/
   
